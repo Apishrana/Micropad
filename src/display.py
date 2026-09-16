@@ -4,10 +4,10 @@ from adafruit_display_text import label
 from adafruit_display_shapes.rect import Rect
 from adafruit_display_shapes.circle import Circle
 
-brightnessImg = displayio.OnDiskBitmap("/brightnessImg.bmp")
-volumeImg = displayio.OnDiskBitmap("/volumeImg.bmp")
-playIconImg = displayio.OnDiskBitmap("/playIconImg.bmp")
-pauseIconImg = displayio.OnDiskBitmap("/pauseIconImg.bmp")
+brightnessImg = displayio.OnDiskBitmap("images/brightnessImg.bmp")
+volumeImg = displayio.OnDiskBitmap("images/volumeImg.bmp")
+playIconImg = displayio.OnDiskBitmap("images/playIconImg.bmp")
+pauseIconImg = displayio.OnDiskBitmap("images/pauseIconImg.bmp")
 
 
 Default = displayio.Group()
