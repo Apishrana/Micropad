@@ -383,6 +383,17 @@
 				(xyz 90 -180 -0)
 			)
 		)
+		(model "/Users/apishrana/Documents/KiCad/10.0/3dmodels/cherry-mx-keycap-mx-1.snapshot.4/MX 轴标准键帽.STEP"
+			(offset
+				(xyz 6 4 10.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 90)
+			)
+		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
@@ -680,6 +691,17 @@
 				(xyz 90 -180 -0)
 			)
 		)
+		(model "/Users/apishrana/Documents/KiCad/10.0/3dmodels/cherry-mx-keycap-mx-1.snapshot.4/MX 轴标准键帽.STEP"
+			(offset
+				(xyz 6 4 10.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 90)
+			)
+		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
@@ -975,6 +997,17 @@
 			)
 			(rotate
 				(xyz 90 -180 -0)
+			)
+		)
+		(model "/Users/apishrana/Documents/KiCad/10.0/3dmodels/cherry-mx-keycap-mx-1.snapshot.4/MX 轴标准键帽.STEP"
+			(offset
+				(xyz 6 4 10.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 90)
 			)
 		)
 	)
@@ -1388,6 +1421,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "/Users/apishrana/Documents/KiCad/10.0/3dmodels/cui-acz11-series-1.snapshot.1/CUI_ACZ11BR2E-20FD1.step"
+			(offset
+				(xyz 7.5 -2.5 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 90)
+			)
+		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
@@ -1685,6 +1729,17 @@
 				(xyz 90 -180 -0)
 			)
 		)
+		(model "/Users/apishrana/Documents/KiCad/10.0/3dmodels/cherry-mx-keycap-mx-1.snapshot.4/MX 轴标准键帽.STEP"
+			(offset
+				(xyz 6 4 10.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 90)
+			)
+		)
 	)
 	(footprint "Connector_Video:128x64OLED"
 		(layer "F.Cu")
@@ -1935,6 +1990,17 @@
 			(uuid "506e58cb-baae-417e-b184-e805d6d961ef")
 		)
 		(embedded_fonts no)
+		(model "/Users/apishrana/Documents/KiCad/10.0/3dmodels/pantalla-oled-0-96-128x64-1.snapshot.7/Pantalla OLED 0.96'' 128x64.stp"
+			(offset
+				(xyz 0.25 -1.5 2.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
@@ -2230,6 +2296,17 @@
 			)
 			(rotate
 				(xyz 90 -180 -0)
+			)
+		)
+		(model "/Users/apishrana/Documents/KiCad/10.0/3dmodels/cherry-mx-keycap-mx-1.snapshot.4/MX 轴标准键帽.STEP"
+			(offset
+				(xyz 6 4 10.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 90)
 			)
 		)
 	)
@@ -2529,6 +2606,17 @@
 				(xyz 90 -180 -0)
 			)
 		)
+		(model "/Users/apishrana/Documents/KiCad/10.0/3dmodels/cherry-mx-keycap-mx-1.snapshot.4/MX 轴标准键帽.STEP"
+			(offset
+				(xyz 6 4 10.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 90)
+			)
+		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
@@ -2826,6 +2914,17 @@
 				(xyz 90 -180 -0)
 			)
 		)
+		(model "/Users/apishrana/Documents/KiCad/10.0/3dmodels/cherry-mx-keycap-mx-1.snapshot.4/MX 轴标准键帽.STEP"
+			(offset
+				(xyz 6 4 10.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 90)
+			)
+		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
@@ -3121,6 +3220,17 @@
 			)
 			(rotate
 				(xyz 90 -180 -0)
+			)
+		)
+		(model "/Users/apishrana/Documents/KiCad/10.0/3dmodels/cherry-mx-keycap-mx-1.snapshot.4/MX 轴标准键帽.STEP"
+			(offset
+				(xyz 6 4 10.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 90)
 			)
 		)
 	)
@@ -4973,6 +5083,17 @@
 				(xyz 90 -180 -0)
 			)
 		)
+		(model "/Users/apishrana/Documents/KiCad/10.0/3dmodels/cherry-mx-keycap-mx-1.snapshot.4/MX 轴标准键帽.STEP"
+			(offset
+				(xyz 6 4 10.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 90)
+			)
+		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
@@ -5268,6 +5389,17 @@
 			)
 			(rotate
 				(xyz 90 -180 -0)
+			)
+		)
+		(model "/Users/apishrana/Documents/KiCad/10.0/3dmodels/cherry-mx-keycap-mx-1.snapshot.4/MX 轴标准键帽.STEP"
+			(offset
+				(xyz 6 4 10.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 90)
 			)
 		)
 	)
@@ -5567,6 +5699,17 @@
 				(xyz 90 -180 -0)
 			)
 		)
+		(model "/Users/apishrana/Documents/KiCad/10.0/3dmodels/cherry-mx-keycap-mx-1.snapshot.4/MX 轴标准键帽.STEP"
+			(offset
+				(xyz 6 4 10.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 90)
+			)
+		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
@@ -5862,6 +6005,17 @@
 			)
 			(rotate
 				(xyz 90 -180 -0)
+			)
+		)
+		(model "/Users/apishrana/Documents/KiCad/10.0/3dmodels/cherry-mx-keycap-mx-1.snapshot.4/MX 轴标准键帽.STEP"
+			(offset
+				(xyz 6 4 10.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 90)
 			)
 		)
 	)
@@ -6273,6 +6427,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "/Users/apishrana/Documents/KiCad/10.0/3dmodels/cui-acz11-series-1.snapshot.1/CUI_ACZ11BR2E-20FD1.step"
+			(offset
+				(xyz 7.5 -2.5 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 90)
 			)
 		)
 	)
