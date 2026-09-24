@@ -21,3 +21,11 @@ This macropad have all the shortcuts that I commonly use in my coding and resear
 ### Schematic
 
 ![Schematic](./images/Schematic.png)
+
+## BOM
+
+check [BOM](./BOM.csv)
+
+## Author
+
+Created by [ApishRana](https://github.com/ApishRana)
